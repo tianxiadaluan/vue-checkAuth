@@ -28,7 +28,7 @@
 
 ##### 3.接下来就是刷新的问题 现在就简单了 见main.js 看了就懂了
 
-
+###### 感谢，主要思路来源于 https://github.com/sunlandong/dynamicRouter  https://refined-x.com/2017/09/01/用addRoutes实现动态路由/
 ## Build Setup
 
 ``` bash
